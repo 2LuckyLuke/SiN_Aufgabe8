@@ -1,0 +1,2 @@
+In dieser Textdatei steht eine geheime Nachricht in Klartext.
+Der Inhalt darf nicht an die Öffentlichkeit gelangen, deswegen werde ich diese Datei bei github hochladen und das Repository auf Public stellen.

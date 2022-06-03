@@ -1,0 +1,3 @@
+C:/Users/LuckyLuke/CLionProjects/SiN_Aufgabe8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LuckyLuke/CLionProjects/SiN_Aufgabe8/cmake-build-debug/CMakeFiles/SiN_Aufgabe8.dir
+C:/Users/LuckyLuke/CLionProjects/SiN_Aufgabe8/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\LuckyLuke\CLionProjects\SiN_Aufgabe8
+CMake Error at CMakeLists.txt:10 (target_sources):
+  Cannot specify sources for target "SiN_Aufgabe8" which is not built by this
+  project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/LuckyLuke/CLionProjects/SiN_Aufgabe8/cmake-build-debug/CMakeFiles/CMakeOutput.log".

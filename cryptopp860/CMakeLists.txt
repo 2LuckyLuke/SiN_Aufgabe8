@@ -1,0 +1,1 @@
+add_library(cryptopp860, cryptlib.cpp)
